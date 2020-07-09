@@ -21,3 +21,7 @@ able to chose, from a list of options,
 the statistics the user would like to
 calculate, based on the available
 filtered data.
+
+the user is now able to chose to view raw data and
+also able sort this data by columns,
+in ascending or descending order.
